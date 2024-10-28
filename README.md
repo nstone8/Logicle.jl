@@ -1,0 +1,2 @@
+# Logicle.jl
+Logicle scaling
